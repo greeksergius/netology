@@ -1,3 +1,4 @@
+merge 5
 part 666
 zzzz
 part 1
